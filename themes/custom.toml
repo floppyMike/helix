@@ -1,0 +1,4 @@
+inherits = "ayu_evolve"
+
+["ui.linenr"]
+fg = "665c54"
